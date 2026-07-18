@@ -1,0 +1,4 @@
+# design-be-gone's own rule data is not a slop-be-gone manifest.
+dbg/data/
+.git/
+__pycache__/
